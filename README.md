@@ -26,12 +26,13 @@ I build production-quality web applications by leveraging AI as a force multipli
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [AI Chat Platform](https://github.com/georgecastillo/ai-chat-platform) | Real-time chat with streaming AI, multi-model support, and prompt engineering sandbox | Next.js, TypeScript, SSE, SQLite |
-| [gh-auto](https://github.com/georgecastillo/gh-auto) | CLI tool for AI-powered PR descriptions, issue labeling, and release notes | Node.js, Commander, Octokit, AI |
-| [Realtime Dashboard](https://github.com/georgecastillo/realtime-dash) | Live data dashboard with interactive charts and WebSocket updates | React, Vite, Recharts, D3 |
-| [TaskFlow](https://github.com/georgecastillo/taskflow) | Kanban board with drag-and-drop, task persistence, and AI prioritization | Next.js, Prisma, SQLite |
-| [API Hub](https://github.com/georgecastillo/api-hub) | Unified API aggregator with playground, caching, rate limiting, and OpenAPI docs | Express, TypeScript, Redis |
-| [Web Summarizer](https://github.com/georgecastillo/web-summarizer) | Chrome extension to summarize pages with AI, save highlights, export to Markdown | Chrome MV3, TypeScript, AI |
+| [AI Chat Platform](https://github.com/gcasti256/ai-chat-platform) | Real-time streaming chat with multi-model support and prompt engineering panel | Next.js, TypeScript, SSE, SQLite |
+| [gh-auto](https://github.com/gcasti256/gh-auto) | CLI for AI-powered PR descriptions, smart issue labeling, and release notes | Node.js, Commander, Octokit, AI |
+| [Realtime Dashboard](https://github.com/gcasti256/realtime-dash) | Live crypto, weather, GitHub, and system metrics with interactive charts | React, Vite, Recharts |
+| [TaskFlow](https://github.com/gcasti256/taskflow) | Kanban board with task management, SQLite persistence, and REST API | Next.js, SQLite, Tailwind |
+| [API Hub](https://github.com/gcasti256/api-hub) | Unified API aggregator with playground, caching, and auto-generated OpenAPI docs | Express, TypeScript |
+| [Web Summarizer](https://github.com/gcasti256/web-summarizer) | Chrome extension for AI-powered page summaries and key point extraction | Chrome MV3, TypeScript, AI |
+| [Portfolio Agents](https://github.com/gcasti256/portfolio-agents) | AI-powered CLI to scaffold projects, generate features, and auto-document repos | Node.js, Anthropic SDK, Octokit |
 
 ## Currently
 
@@ -41,6 +42,5 @@ I build production-quality web applications by leveraging AI as a force multipli
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://georgecastillo.github.io/portfolio-site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgecastillo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:george@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://gcasti256.github.io/portfolio-site/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gcasti256)
