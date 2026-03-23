@@ -32,6 +32,7 @@ I build production-quality web applications by leveraging AI as a force multipli
 | [TaskFlow](https://github.com/gcasti256/taskflow) | Kanban board with task management, SQLite persistence, and REST API | Next.js, SQLite, Tailwind |
 | [API Hub](https://github.com/gcasti256/api-hub) | Unified API aggregator with playground, caching, and auto-generated OpenAPI docs | Express, TypeScript |
 | [Web Summarizer](https://github.com/gcasti256/web-summarizer) | Chrome extension for AI-powered page summaries and key point extraction | Chrome MV3, TypeScript, AI |
+| [EnvVault](https://github.com/gcasti256/env-vault) | Secure environment variable manager with import/export and secret masking | React, Vite, TypeScript |
 | [API Health](https://github.com/gcasti256/api-health) | Uptime monitoring dashboard with response time charts and auto-refresh | Next.js, SQLite, Recharts |
 | [Portfolio Agents](https://github.com/gcasti256/portfolio-agents) | AI-powered CLI to scaffold projects, generate features, and auto-document repos | Node.js, Anthropic SDK, Octokit |
 
