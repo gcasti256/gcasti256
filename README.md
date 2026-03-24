@@ -7,16 +7,18 @@ I build production-quality web applications by leveraging AI as a force multipli
 ## What I Do
 
 - Build full-stack applications with **TypeScript, React, Next.js, and Node.js**
-- Integrate **AI/LLM APIs** (OpenAI, Anthropic) into real products
+- Design and implement **RAG pipelines** and **AI/LLM systems** (OpenAI, Anthropic)
 - Create **developer tools** — CLIs, browser extensions, automation scripts
 - Ship **fast** without cutting corners on code quality
 
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -26,6 +28,7 @@ I build production-quality web applications by leveraging AI as a force multipli
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [RAG Engine](https://github.com/gcasti256/rag-engine) | Production-grade RAG pipeline with pgvector hybrid search, source citations, and eval framework | Python, FastAPI, pgvector, React |
 | [AI Chat Platform](https://github.com/gcasti256/ai-chat-platform) | Real-time streaming chat with multi-model support and prompt engineering panel | Next.js, TypeScript, SSE, SQLite |
 | [gh-auto](https://github.com/gcasti256/gh-auto) | CLI for AI-powered PR descriptions, smart issue labeling, and release notes | Node.js, Commander, Octokit, AI |
 | [Realtime Dashboard](https://github.com/gcasti256/realtime-dash) | Live crypto, weather, GitHub, and system metrics with interactive charts | React, Vite, Recharts |
