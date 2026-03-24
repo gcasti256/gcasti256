@@ -28,6 +28,7 @@ I build production-quality web applications by leveraging AI as a force multipli
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [agent-flow](https://github.com/gcasti256/agent-flow) | Agentic AI framework with think/act/observe loop, tool calling, memory management, and structured outputs | TypeScript, Python, React, Zod |
 | [RAG Engine](https://github.com/gcasti256/rag-engine) | Production-grade RAG pipeline with pgvector hybrid search, source citations, and eval framework | Python, FastAPI, pgvector, React |
 | [AI Chat Platform](https://github.com/gcasti256/ai-chat-platform) | Real-time streaming chat with multi-model support and prompt engineering panel | Next.js, TypeScript, SSE, SQLite |
 | [gh-auto](https://github.com/gcasti256/gh-auto) | CLI for AI-powered PR descriptions, smart issue labeling, and release notes | Node.js, Commander, Octokit, AI |
