@@ -1,15 +1,15 @@
 # Hi, I'm George Castillo
 
-**Full-stack engineer who ships faster with AI.**
+**AI Engineer building agentic systems, RAG pipelines, and LLM infrastructure.**
 
-I build production-quality web applications by leveraging AI as a force multiplier — not a crutch. Every project in my portfolio is a real, functional application with clean code, tests, and documentation.
+I build production-grade AI systems with a focus on reliability, observability, and enterprise-readiness. Every project has clean code, tests, CI/CD, and documentation — because production-quality is the only quality that matters.
 
-## What I Do
+## What I Build
 
-- Build full-stack applications with **TypeScript, React, Next.js, and Node.js**
-- Design and implement **RAG pipelines** and **AI/LLM systems** (OpenAI, Anthropic)
-- Create **developer tools** — CLIs, browser extensions, automation scripts
-- Ship **fast** without cutting corners on code quality
+- **Agentic AI frameworks** — Multi-step reasoning, tool calling, memory management, structured outputs
+- **RAG pipelines** — Document ingestion, hybrid search (vector + BM25), source citations, evaluation
+- **LLM observability** — Latency tracking, cost analytics, PII masking, alerting
+- Full-stack applications with **TypeScript, Python, React, and Node.js**
 
 ## Tech Stack
 
@@ -26,11 +26,18 @@ I build production-quality web applications by leveraging AI as a force multipli
 
 ## Featured Projects
 
+### AI Engineering
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| [AI Service Monitor](https://github.com/gcasti256/ai-service-monitor) | Production monitoring platform for AI/LLM services — tracks latency, tokens, cost, errors with alerting | TypeScript, React, Hono, SQLite |
-| [agent-flow](https://github.com/gcasti256/agent-flow) | Agentic AI framework with think/act/observe loop, tool calling, memory management, and structured outputs | TypeScript, Python, React, Zod |
-| [RAG Engine](https://github.com/gcasti256/rag-engine) | Production-grade RAG pipeline with pgvector hybrid search, source citations, and eval framework | Python, FastAPI, pgvector, React |
+| [**agent-flow**](https://github.com/gcasti256/agent-flow) | Agentic AI framework — think/act/observe loop, tool calling, persistent memory, structured outputs, visual workflow builder | TypeScript, Python, Zod, React |
+| [**rag-engine**](https://github.com/gcasti256/rag-engine) | Production RAG pipeline — hybrid search (pgvector + BM25 + RRF), source citations, confidence scoring, eval framework | Python, FastAPI, pgvector, React |
+| [**ai-service-monitor**](https://github.com/gcasti256/ai-service-monitor) | LLM observability platform — latency, tokens, cost, errors, PII masking, alerting with webhooks | TypeScript, React, Hono, SQLite |
+
+### Full-Stack
+
+| Project | Description | Tech |
+|---------|-------------|------|
 | [AI Chat Platform](https://github.com/gcasti256/ai-chat-platform) | Real-time streaming chat with multi-model support and prompt engineering panel | Next.js, TypeScript, SSE, SQLite |
 | [gh-auto](https://github.com/gcasti256/gh-auto) | CLI for AI-powered PR descriptions, smart issue labeling, and release notes | Node.js, Commander, Octokit, AI |
 | [Realtime Dashboard](https://github.com/gcasti256/realtime-dash) | Live crypto, weather, GitHub, and system metrics with interactive charts | React, Vite, Recharts |
@@ -43,9 +50,9 @@ I build production-quality web applications by leveraging AI as a force multipli
 
 ## Currently
 
-- Building AI-augmented developer tools
-- Looking for **remote** full-stack or AI engineering opportunities
-- Open to collaboration on open-source projects
+- Building **agentic AI systems** and **LLM infrastructure** for enterprise use cases
+- IT Engineer @ **American Express** — applying enterprise-grade thinking to AI engineering
+- Open to AI engineering roles and collaboration on open-source AI projects
 
 ## Connect
 
