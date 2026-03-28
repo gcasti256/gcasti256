@@ -30,6 +30,7 @@ I build production-grade AI systems with a focus on reliability, observability, 
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**fintech-fraud-agent**](https://github.com/gcasti256/fintech-fraud-agent) | Agentic fraud detection for financial services — LangGraph multi-agent pipeline (triage/analysis/decision), RAG over fraud patterns, gRPC + REST APIs, PII masking, compliance guardrails, 375 tests | Python, LangGraph, FastAPI, gRPC, Pydantic |
 | [**langgraph-agent-framework**](https://github.com/gcasti256/langgraph-agent-framework) | Multi-agent orchestration on LangGraph — supervisor/planner/specialist routing, human-in-the-loop, checkpointing, streaming API | Python, LangGraph, FastAPI, Pydantic |
 | [**agent-flow**](https://github.com/gcasti256/agent-flow) | Agentic AI framework — think/act/observe loop, tool calling, persistent memory, structured outputs, visual workflow builder | TypeScript, Python, Zod, React |
 | [**rag-engine**](https://github.com/gcasti256/rag-engine) | Production RAG pipeline — hybrid search (pgvector + BM25 + RRF), source citations, confidence scoring, eval framework | Python, FastAPI, pgvector, React |
